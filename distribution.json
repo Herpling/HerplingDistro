@@ -114,6 +114,46 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.96.4+1.20.4@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2160893,
+            "url": "https://herpling.github.io/HerplingDistro/servers/Herpling-1.20.4/fabricmods/required/fabric-api-0.96.4+1.20.4.jar",
+            "MD5": "2ef9ba9b1cf087f4356ebe55366fb9ef"
+          }
+        },
+        {
+          "id": "de.keksuccino:fancymenu:3.1.0@jar",
+          "name": "FancyMenu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2612599,
+            "url": "https://herpling.github.io/HerplingDistro/servers/Herpling-1.20.4/fabricmods/required/fancymenu_fabric_3.1.0_MC_1.20.4.jar",
+            "MD5": "98ba055d9fd4fc409a02a35ef2984569"
+          }
+        },
+        {
+          "id": "de.keksuccino:melody:1.0.3@jar",
+          "name": "Melody",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 39696,
+            "url": "https://herpling.github.io/HerplingDistro/servers/Herpling-1.20.4/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "MD5": "8095b46d324586b3cf3d2f5bffe8b417"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 949085,
+            "url": "https://herpling.github.io/HerplingDistro/servers/Herpling-1.20.4/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4%20(1).jar",
+            "MD5": "d7753a50ca37f50abb10465a9a425dac"
+          }
         }
       ]
     }
