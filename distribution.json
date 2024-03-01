@@ -21,7 +21,7 @@
         "largeImageKey": "Herpling"
       },
       "mainServer": true,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.15.7",
@@ -123,36 +123,6 @@
             "size": 2160893,
             "url": "https://herpling.github.io/HerplingDistro/servers/Herpling-1.20.4/fabricmods/required/fabric-api-0.96.4+1.20.4.jar",
             "MD5": "2ef9ba9b1cf087f4356ebe55366fb9ef"
-          }
-        },
-        {
-          "id": "de.keksuccino:fancymenu:3.1.0@jar",
-          "name": "FancyMenu",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2612599,
-            "url": "https://herpling.github.io/HerplingDistro/servers/Herpling-1.20.4/fabricmods/required/fancymenu_fabric_3.1.0_MC_1.20.4.jar",
-            "MD5": "98ba055d9fd4fc409a02a35ef2984569"
-          }
-        },
-        {
-          "id": "de.keksuccino:konkrete:1.8.0@jar",
-          "name": "Konkrete",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 704658,
-            "url": "https://herpling.github.io/HerplingDistro/servers/Herpling-1.20.4/fabricmods/required/konkrete_fabric_1.8.0_MC_1.20.4.jar",
-            "MD5": "1bfdf1aaef068324bc4e34103c0e211f"
-          }
-        },
-        {
-          "id": "de.keksuccino:melody:1.0.3@jar",
-          "name": "Melody",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 39696,
-            "url": "https://herpling.github.io/HerplingDistro/servers/Herpling-1.20.4/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
-            "MD5": "8095b46d324586b3cf3d2f5bffe8b417"
           }
         },
         {
