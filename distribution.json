@@ -136,6 +136,16 @@
           }
         },
         {
+          "id": "de.keksuccino:konkrete:1.7.0@jar",
+          "name": "Konkrete",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 704754,
+            "url": "https://herpling.github.io/HerplingDistro/servers/Herpling-1.20.4/fabricmods/required/konkrete_fabric_1.7.1_MC_1.20.4.jar",
+            "MD5": "29f3d7dd21db5e1b3cdd395168cc27da"
+          }
+        },
+        {
           "id": "de.keksuccino:melody:1.0.3@jar",
           "name": "Melody",
           "type": "FabricMod",
@@ -151,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 949085,
-            "url": "https://herpling.github.io/HerplingDistro/servers/Herpling-1.20.4/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4%20(1).jar",
+            "url": "https://herpling.github.io/HerplingDistro/servers/Herpling-1.20.4/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4.jar",
             "MD5": "d7753a50ca37f50abb10465a9a425dac"
           }
         }
