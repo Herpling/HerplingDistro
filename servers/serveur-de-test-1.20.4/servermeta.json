@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/charl/Documents/GitHub/HerplingDistro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Serveur de test staff",
+    "description": "Serveur de test de Herpling réservé au staff",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "ipadminserveurdetest.feathermc.gg",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.15.9"
+  },
+  "untrackedFiles": []
+}
