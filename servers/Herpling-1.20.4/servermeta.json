@@ -5,7 +5,7 @@
     "name": "Herpling (Minecraft 1.20.4)",
     "description": "Herpling Running Minecraft 1.20.4 (Fabric v0.15.7)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "ipadminfeathermcgg:25565",
+    "address": "herpling.feathermc.gg:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
